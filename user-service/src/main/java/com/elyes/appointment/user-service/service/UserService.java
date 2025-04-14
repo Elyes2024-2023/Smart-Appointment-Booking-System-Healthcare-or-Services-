@@ -1,6 +1,6 @@
-package com.elyes.appointment.user-service.service;
+package com.elyes.advanced.appointment.user.service;
 
-import com.elyes.appointment.user-service.model.User;
+import com.elyes.advanced.appointment.user.model.User;
 import java.util.List;
 import java.util.Optional;
 

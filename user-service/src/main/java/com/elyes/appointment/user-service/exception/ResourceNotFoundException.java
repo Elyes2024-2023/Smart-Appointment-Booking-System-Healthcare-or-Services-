@@ -1,4 +1,4 @@
-package com.elyes.appointment.user-service.exception;
+package com.elyes.advanced.appointment.user.exception;
 
 /**
  * Custom exception for handling resource not found scenarios.

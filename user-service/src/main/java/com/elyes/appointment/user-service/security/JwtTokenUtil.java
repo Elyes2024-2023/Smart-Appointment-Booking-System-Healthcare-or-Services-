@@ -1,4 +1,4 @@
-package com.elyes.appointment.user-service.security;
+package com.elyes.advanced.appointment.user.security;
 
 import io.jsonwebtoken.Claims;
 import io.jsonwebtoken.Jwts;

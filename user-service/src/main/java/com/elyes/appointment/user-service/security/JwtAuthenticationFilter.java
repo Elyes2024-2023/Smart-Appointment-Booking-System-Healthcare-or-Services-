@@ -1,4 +1,4 @@
-package com.elyes.appointment.user-service.security;
+package com.elyes.advanced.appointment.user.security;
 
 import jakarta.servlet.FilterChain;
 import jakarta.servlet.ServletException;

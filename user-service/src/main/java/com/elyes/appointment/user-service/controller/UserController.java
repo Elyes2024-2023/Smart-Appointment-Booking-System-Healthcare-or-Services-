@@ -1,7 +1,7 @@
-package com.elyes.appointment.user-service.controller;
+package com.elyes.advanced.appointment.user.controller;
 
-import com.elyes.appointment.user-service.model.User;
-import com.elyes.appointment.user-service.service.UserService;
+import com.elyes.advanced.appointment.user.model.User;
+import com.elyes.advanced.appointment.user.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
